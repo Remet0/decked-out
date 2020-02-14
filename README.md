@@ -12,7 +12,7 @@ If you would like to make and account you can hit the log in button on any page 
 
 ## Technologies
 
-React, Express, Node, Amazon S3, MySQL.
+React, Typescript, Express, Node, Amazon S3, MySQL, HTML, CSS, SuperTest, Jest.
 
 ## Authors 
 
